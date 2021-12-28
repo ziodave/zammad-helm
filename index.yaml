@@ -3,7 +3,7 @@ entries:
   zammad:
   - apiVersion: v2
     appVersion: 5.0.3
-    created: "2021-12-28T10:17:49.61407523Z"
+    created: "2021-12-28T11:01:50.15023482Z"
     dependencies:
     - condition: zammadConfig.elasticsearch.enabled
       name: elasticsearch
@@ -24,7 +24,7 @@ entries:
     description: Zammad is a web based open source helpdesk/customer support system
       with many features to manage customer communication via several channels like
       telephone, facebook, twitter, chat and e-mails.
-    digest: 8ad430b1fc803dc4578061ea3f27b6f4d653f75dfdf8daf1908eb26517bd846c
+    digest: 07b15f3f1e817b541f0a27007d5d21ad473b3305efc7536c0b20eccab981c255
     home: https://zammad.org
     icon: https://raw.githubusercontent.com/zammad/zammad-documentation/master/images/zammad_logo_600x520.png
     maintainers:
@@ -38,6 +38,6 @@ entries:
     - https://github.com/zammad/zammad-docker-compose
     - https://github.com/zammad/zammad-helm
     urls:
-    - https://github.com/ziodave/zammad-helm/releases/download/zammad-6.0.3/zammad-6.0.3.tgz
-    version: 6.0.3
-generated: "2021-12-28T10:17:49.614334233Z"
+    - https://github.com/ziodave/zammad-helm/releases/download/zammad-6.0.4/zammad-6.0.4.tgz
+    version: 6.0.4
+generated: "2021-12-28T11:01:50.15024522Z"
